@@ -1,0 +1,6 @@
+Desorden desde el tablero ordenado: izquierda, arriba, izquierda, arriba, derecha, abajo, derecha, abajo (se mueve el espacio vacío).
+
+Solución: arriba, izquierda, arriba, izquierda, abajo, derecha, abajo, derecha. En cada paso, haga clic en la pieza ubicada en esa dirección respecto al espacio vacío.
+
+Ejemplo 3x3 (X es el espacio vacío):
+24316875X → 24316X758 → 2431X6758 → 2X3146758 → X23146758 → 123X46758 → 1234X6758 → 1234567X8 → 12345678X
